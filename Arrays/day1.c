@@ -1,3 +1,4 @@
+// SECOND LARGEST ELEMENT OF AN ARRAY
 int getSecondLargest(int *arr, int n) {
     // code here
     int max=-1;
